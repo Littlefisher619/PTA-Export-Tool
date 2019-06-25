@@ -1,0 +1,7 @@
+
+*.exe
+*.pdf
+*.0
+Student/main.cpp
+.vscode
+test.cpp
